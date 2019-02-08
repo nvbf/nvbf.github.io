@@ -27,8 +27,7 @@ Check out our guide, to know all the details you need to know before running you
 
 http://blusstv.volleystream.no/
 
-Get professional overlays on your volleyball stream. Check out [example video](https://www.youtube.com/watch?v=VKEX27y5nkY) 
-
+Get professional overlays on your volleyball stream. Check out [example video](https://www.youtube.com/watch?v=H1Gt7jp77kg&t=34s) 
 
 * Source: https://github.com/oveien/BlussTV
 * Main Developer: [@oveien](https://github.com/oveien)
