@@ -1,8 +1,20 @@
-title: Nvbf.GitHub.io
-description: 
+# Site settings:
+# ---------------
+
+title: programvare.volleyball.no
+description: Informasjon om programvare, spesielt for streaming, for norsk volleyball.
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-architect
+remote_theme: pmarsceill/just-the-docs
 
 gems:
   - jekyll-mentions
+
+# Theme settings:
+# ---------------
+
+color_scheme: dark
+
+aux_links:
+  "volleyball.no":
+    - "https://volleyball.no"
