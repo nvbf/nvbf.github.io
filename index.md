@@ -1,25 +1,26 @@
 Volleyball and Beachvolleyball open source software
 ==============
 
-_An open source initative started des.  2014 by the Norwegian volleyball federation to get better online volleyball and beachvolleyball solutions_.
+_An open source initative started December 2014 by the Norwegian volleyball federation to get better online volleyball and beachvolleyball solutions_.
 
 ## Current Projects 
 
 ### Volley Score
 
-http://score.volleystream.no 
+https://www.volleytv.no/score-board/ (temporary location)
 
-A very simple scoreboard, to be used together with a stream, or to publish live score to other friend and family. Can be used even if you are a parent watching your kids game. Or used on higher level to reduce the burden of 
+A very simple scoreboard, to be used together with a stream, or to publish live score to other friend and family. Can be used even if you are a parent watching your kids game. Or used on higher level to reduce the burden of organizers.
 
-Main developer: [@tutturen](https://github.com/tutturen)
+* Source: https://github.com/nvbf/volley-score
+* Main developer: [@tutturen](https://github.com/tutturen)
 
-### Stream a Volleyball match 
+### How to Stream a Volleyball match 
 
-https://guide.volleystream.no/
+https://programvare.volleyball.no/volley-streaming-wiki
 
 Check out our guide, to know all the details you need to know before running your first stream for volleyball.
 
-* Source: https://github.com/oveien/BlussTV
+* Source: https://github.com/nvbf/volley-streaming-wiki/
 * Main developer: [@tutturen](https://github.com/tutturen)
 
 
@@ -76,9 +77,9 @@ Based on a google sheets, integrates with [volley score](http://score.volleystre
 
 https://beach.volleyball.no/
 
-Let's you Signup and do the payment of a tournament, pluss result ranking. 
+Let's you signup and do the payment of a tournament, pluss result ranking. 
 
-The backend part of this project is currently not accesibale to the public
+**Superseded by Profixio.**
 
 * Source: Currently not public
 * Main Developer (fronend): [@sindresvendby](https://github.com/sindresvendby)
