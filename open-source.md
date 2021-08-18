@@ -32,7 +32,7 @@ Check out our guide, to know all the details you need to know before running you
 
 ## BlussTV - Stream Volleyball with datavolley integration
 
-http://blusstv.volleystream.no/
+http://blusstv.volleytv.no/
 
 Get professional overlays on your volleyball stream. Check out [example video](https://www.youtube.com/watch?v=H1Gt7jp77kg&t=34s) 
 
