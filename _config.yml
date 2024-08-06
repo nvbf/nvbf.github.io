@@ -5,7 +5,7 @@ title: Programvare . volleyball . no
 description: Informasjon om programvare, spesielt for streaming, for norsk volleyball.
 google_analytics: 
 show_downloads: true
-markdown: GFM
+markdown: kramdown
 remote_theme: just-the-docs/just-the-docs
 
 plugins:
