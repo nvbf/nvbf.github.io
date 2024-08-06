@@ -6,7 +6,7 @@ description: Informasjon om programvare, spesielt for streaming, for norsk volle
 google_analytics: 
 show_downloads: true
 markdown: GFM
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-mentions

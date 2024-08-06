@@ -8,6 +8,15 @@ Open source software for volleyball and beachvolleyball
 
 _An open source initative started December 2014 by the Norwegian volleyball federation to get better online volleyball and beachvolleyball solutions_.
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+-. TOC
+{:toc}
+</details>
+
 ## Current projects
 
 ### Volley score
