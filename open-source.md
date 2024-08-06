@@ -8,9 +8,9 @@ Open source software for volleyball and beachvolleyball
 
 _An open source initative started December 2014 by the Norwegian volleyball federation to get better online volleyball and beachvolleyball solutions_.
 
-## Current Projects 
+## Current projects
 
-### Volley Score
+### Volley score
 
 https://www.volleytv.no/score-board/ (temporary location)
 
@@ -19,7 +19,7 @@ A very simple scoreboard, to be used together with a stream, or to publish live 
 * Source: https://github.com/nvbf/volley-score
 * Main developer: @tutturen
 
-### How to Stream a Volleyball match 
+### How to stream a volleyball match 
 
 https://programvare.volleyball.no/volley-streaming-wiki
 
@@ -29,42 +29,48 @@ Check out our guide, to know all the details you need to know before running you
 * Creator: @tutturen
 * Maintainer: @hansfn
 
+### BlussTV - stream volleyball with Datavolley integration
 
-## BlussTV - Stream Volleyball with datavolley integration
-
-http://blusstv.volleytv.no/
+https://blusstv.volleytv.no/
 
 Get professional overlays on your volleyball stream. Check out [example video](https://www.youtube.com/watch?v=H1Gt7jp77kg&t=34s) 
 
 * Source: https://github.com/oveien/BlussTV
 * Main Developer: @oveien
 
+### Beachvolleyball scoreboard
 
-## Beachvolleyball Scoreboard 
+https://live.osvb.no/
 
-http://live.osvb.no/
-
-Reduce the pain of beeing a referee, and be able to get livescore on a page, integrates and sends data to [volley-score](http://score.volleystream.no ) to be used in a stream. 
+Reduce the pain of beeing a referee, and be able to get livescore on a page, integrates and sends data to [volley-score](https://www.volleytv.no/score-board/) to be used in a stream. 
 
 * Source: https://github.com/nvbf/beachvolleyball-scoreboard
 * Main Developer: @sindresvendby
 
+### Tournament sync
 
-## Cupassist Result Integration - Beachvolleyball Scoreboard 
+Syncs score / results between Profixio and Beachvolleyball scoreboard.
+
+* Source: https://github.com/nvbf/tournament-sync
+* Main Developer: @oysteingraendsen
+
+## Inactive / historical projects
+
+### Cupassist result integration - beachvolleyball scoreboard
 
 Get your result into cupassist the same minutes as they are completed. 
 
 * Source: https://github.com/nvbf/cupassist-auto-register-match-result
 * Main Developer: @sindresvendby
 
-## Cupassist Registration Integration - Beachvolleyball Scoreboard 
+### Cupassist registration integration - beachvolleyball scoreboard
 
 Signup teams from one system into cupassist.
 
 * Source: https://github.com/nvbf/cupassist-auto-signup
 * Main Developer: @sindresvendby
 
-## Match to Youtube Events generator
+### Match to Youtube Events generator
 
 Based on a google sheets, let's you create and sceduled youtube events.
 E.g creates upcomming youtube events, based on match result in the playoff of a beachvolleyball tournament
@@ -72,33 +78,14 @@ E.g creates upcomming youtube events, based on match result in the playoff of a 
 * Source: https://github.com/nvbf/youtube-google-sheet-event-creator
 * Main Developer: @sindresvendby
 
-## Match to Youtube Events generator
+### Match to Youtube Events generator
 
 Based on a google sheets, integrates with [volley score](http://score.volleystream.no) so that you do not need to start and end the scoreboard, the scoreboard will always find the correct scoreboard to show on a court and show that in the stream.
 
 * Source: https://github.com/nvbf/scoreboard-sheets-manager
 * Main Developer: @sindresvendby
 
-## Signup and Pay, (frontend)
-
-https://beach.volleyball.no/
-
-Let's you signup and do the payment of a tournament, pluss result ranking. 
-
-**Superseded by Profixio.**
-
-* Source: Currently not public
-* Main Developer (fronend): @sindresvendby
-
-## Beachvolleyball Profiles 
-
-Let pepole create and edit their own profiles, and be able to use it in a stream
-
-Process: In Development
-* Main Developer: @sindresvendby
-
-
-# Get involved
+## Get involved
 
 To get involved and join our slack channels, contact @SindreSvendby / sinsvend@gmail.com
 
