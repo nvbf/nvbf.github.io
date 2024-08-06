@@ -13,7 +13,7 @@ _An open source initative started December 2014 by the Norwegian volleyball fede
     Table of contents
   </summary>
   {: .text-delta }
--. TOC
+- TOC
 {:toc}
 </details>
 
