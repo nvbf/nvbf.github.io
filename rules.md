@@ -15,4 +15,4 @@ The source code of the translation and website is located on
 
 ## Website with the official rules in Norwegian
 
-** Visit <https://spilleregler.volleyball.no/>.
+Visit <https://spilleregler.volleyball.no/>.
